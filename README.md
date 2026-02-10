@@ -1,5 +1,6 @@
-# --9
-client.go
+# client.go
+
+
 package main
 
 import (
@@ -88,7 +89,7 @@ func outputMessages(messageChan <-chan string) {
 }
 
 
-server.go
+# server.go
 
 package main
 
